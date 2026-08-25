@@ -6,7 +6,7 @@
 
 **Software & AI Engineering** · Vancouver, BC · U.S. Citizen
 
-[Portfolio](https://jacobrosario.com) · [Resume](https://your-resume-link.com) · [Email](mailto:jacobrosario0225@gmail.com) · [LinkedIn](linkedin.com/in/jacob-rosario-84a072341)
+[Portfolio](https://jacobrosario.com) · [Resume](https://your-resume-link.com) · [Email](mailto:jacobrosario0225@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jacob-rosario-84a072341/)
 
 `Open to software and AI engineering roles`
 
