@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.gif" width="900" alt="" />
+<img src="/hero.gif" width="900" alt="" />
 
 # Jacob Rosario
 
