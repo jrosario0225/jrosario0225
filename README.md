@@ -21,15 +21,31 @@ I like taking real-world problems and using software to create solutions.
 
 ---
 
+<sub>**WORK**</sub>
+
+**RepSpeed**<br />
+<sub>Swift · SwiftUI · CoreMotion — in progress</sub><br />
+Estimates barbell velocity from AirPods motion sensors using custom physics models. Real-time lifting feedback.
+
 <br />
 
-**RepSpeed** — an iOS app that reads AirPods motion sensors and estimates barbell velocity through custom physics models, giving lifters real-time performance feedback without buying hardware. Swift, SwiftUI. *In progress.*
 
-**Spike Timer Analyzer** — a computer-vision tool that pulls takeoff, contact, and landing timing out of raw video and returns it to the athlete immediately. JavaScript, React.
+**Spike Timer Analyzer**<br />
+<sub>JavaScript · React · Computer Vision</sub><br />
+Pulls takeoff, contact, and landing timing out of raw video and determines accuracy of spike timing.
 
-**Stat Tracker** — real-time event logging designed for speed and accuracy under pressure, with a data model built to surface insight mid-match rather than after. React.
+<br />
 
-**Portfolio** — a fully responsive 3D site built from scratch: physics engine, models, scene composition, lighting. Three.js, React. → [jacobrosario.com](https://jacobrosario.com)
+**Stat Tracker**<br />
+<sub>React</sub><br />
+Real-time event logging built for accurate input under pressure, with views that surface insight mid-match.
+
+<br />
+
+**Portfolio**<br />
+<sub>Three.js · React</sub><br />
+Responsive 3D site built from scratch — physics engine, models, scene composition, lighting.
+
 
 <br />
 
