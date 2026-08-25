@@ -1,40 +1,47 @@
 <div align="center">
+<img src="assets/hero.gif" width="540" alt="" />
+</div>
 
-<img src="/hero.gif" width="900" alt="" />
+<br />
 
-# Jacob Rosario
+<div align="center">
 
-**Software & AI Engineering** · Vancouver, BC · U.S. Citizen
+### Jacob Rosario
 
-[Portfolio](https://jacobrosario.com) · [Resume](https://your-resume-link.com) · [Email](mailto:jacobrosario0225@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jacob-rosario-84a072341/)
+<br />
+I make software that turns motion, video, and live data into decisions.
 
-`Open to software and AI engineering roles`
+<sub>Vancouver, BC &nbsp;·&nbsp; U.S. Citizen &nbsp;·&nbsp; Open to software & AI engineering roles</sub>
+
+<sub>[jacobrosario.com](https://jacobrosario.com) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/jacob-rosario-84a072341/) &nbsp;·&nbsp; [resume](Jacob_Rosario_Resume.pdf) &nbsp;·&nbsp; [email](mailto:jacobrosario0225@gmail.com)</sub>
 
 </div>
 
----
-
-Biology grad turned builder. I design and ship applications that turn messy real-world signal — motion sensors, video frames, live match data — into something a person can act on.
+<br />
 
 ---
 
-### Selected Work
+<br />
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[RepSpeed]** | Estimates barbell velocity from AirPods motion sensors using custom physics models. Real-time feedback, no extra hardware. | `Swift` `SwiftUI` `CoreMotion` |
-| **[Spike Timer Analyzer](https://github.com/jrosario0225/spike-timer)** | Computer-vision tool that extracts takeoff, contact, and landing timing from video and returns it live. | `JavaScript` `React` `CV` |
-| **[Stat Tracker](https://github.com/jrosario0225/volleyball-tracker)** | Live event logging built for input under pressure — data model and views designed around in-game decisions. | `React` |
-| **[Portfolio](https://jacobrosario.com)** | Interactive 3D site built from scratch: physics engine, scene composition, lighting. | `Three.js` `React` |
+**RepSpeed** — an iOS app that reads AirPods motion sensors and estimates barbell velocity through custom physics models, giving lifters real-time performance feedback without buying hardware. Swift, SwiftUI. *In progress.*
+
+**Spike Timer Analyzer** — a computer-vision tool that pulls takeoff, contact, and landing timing out of raw video and returns it to the athlete immediately. JavaScript, React.
+
+**Stat Tracker** — real-time event logging designed for speed and accuracy under pressure, with a data model built to surface insight mid-match rather than after. React.
+
+**Portfolio** — a fully responsive 3D site built from scratch: physics engine, models, scene composition, lighting. Three.js, React. → [jacobrosario.com](https://jacobrosario.com)
+
+<br />
 
 ---
 
-### Stack
+<br />
 
-**Building** &nbsp;`JavaScript` `React` `Python` `Swift` `SwiftUI` `Three.js` `HTML` `CSS`
+**Currently** &nbsp; deepening AI engineering work — agentic workflows, LLM tooling, and shipping things that hold up outside a demo.
 
-**Working with** &nbsp;`Claude` `LLMs` `Prompt Engineering` `Git` `GitHub`
+**Tools** &nbsp; JavaScript · React · Python · Swift · SwiftUI · Three.js · Claude · Git
 
-**Certified** &nbsp;Anthropic — Claude Code 101 · Claude 101 · AI Fluency: Frameworks & Foundations
+**Training** &nbsp; Anthropic: Claude Code 101, Claude 101, AI Fluency &nbsp;·&nbsp; BSc Biology, UBC
 
+<br />
 
