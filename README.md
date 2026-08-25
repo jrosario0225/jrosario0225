@@ -9,7 +9,7 @@
 ### Jacob Rosario
 
 <br />
-I make software that turns motion, video, and live data into decisions.
+I like taking real-world problems and using software to create solutions.
 
 <sub>Vancouver, BC &nbsp;·&nbsp; U.S. Citizen &nbsp;·&nbsp; Open to software & AI engineering roles</sub>
 
@@ -37,11 +37,11 @@ I make software that turns motion, video, and live data into decisions.
 
 <br />
 
-**Currently** &nbsp; deepening AI engineering work — agentic workflows, LLM tooling, and shipping things that hold up outside a demo.
+**Currently:** &nbsp; deepening AI engineering work — agentic workflows, LLM tooling, and shipping things that hold up outside a demo.
 
-**Tools** &nbsp; JavaScript · React · Python · Swift · SwiftUI · Three.js · Claude · Git
+**Tools:** &nbsp; JavaScript · React · Python · Swift · SwiftUI · Three.js · Claude · Git
 
-**Training** &nbsp; Anthropic: Claude Code 101, Claude 101, AI Fluency &nbsp;·&nbsp; BSc Biology, UBC
+**Training:** &nbsp; Anthropic: Claude Code 101, Claude 101, AI Fluency &nbsp;·&nbsp; BSc Biology, UBC
 
 <br />
 
