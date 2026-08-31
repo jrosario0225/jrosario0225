@@ -13,7 +13,7 @@ I like taking real-world problems and using software to create solutions.
 
 <sub>Vancouver, BC &nbsp;·&nbsp; U.S. Citizen &nbsp;·&nbsp; Open to software & AI engineering roles</sub>
 
-<sub>[jacobrosario.com](https://jacobrosario.com) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/jacob-rosario-84a072341/) &nbsp;·&nbsp; [resume](Jacob_Rosario - Resume.pdf) &nbsp;·&nbsp; [email](mailto:jacobrosario0225@gmail.com)</sub>
+<sub>[jacobrosario.com](https://jacobrosario.com) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/jacob-rosario-84a072341/) &nbsp;·&nbsp; [resume](./Jacob%20Rosario%20-%20Resume.pdf) &nbsp;·&nbsp; [email](mailto:jacobrosario0225@gmail.com)</sub>
 
 </div>
 
