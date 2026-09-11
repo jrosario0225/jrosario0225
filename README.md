@@ -23,7 +23,7 @@ I like taking real-world problems and using software to create solutions.
 
 <sub>**WORK**</sub>
 
-**RepSpeed**<br />
+**RepPower**<br />
 <sub>Swift · SwiftUI · CoreMotion — in progress</sub><br />
 Estimates barbell velocity from AirPods motion sensors using custom physics models. Real-time lifting feedback.
 
