@@ -30,7 +30,7 @@ Estimates barbell velocity from AirPods motion sensors using custom physics mode
 <br />
 
 
-**Spike Timer Analyzer**<br />
+**Spike Timer**<br />
 <sub>JavaScript · React · Computer Vision</sub><br />
 Pulls takeoff, contact, and landing timing out of raw video and determines accuracy of spike timing.
 
