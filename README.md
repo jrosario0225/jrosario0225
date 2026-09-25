@@ -36,7 +36,7 @@ Pulls takeoff, contact, and landing timing out of raw video and determines accur
 
 <br />
 
-**Stat Tracker**<br />
+**Volleyball Stat Tracker**<br />
 <sub>React</sub><br />
 Real-time event logging built for accurate input under pressure, with views that surface insight mid-match.
 
