@@ -47,7 +47,7 @@ Real-time event logging built for accurate input under pressure, with views that
 
 <br />
 
-**Portfolio**<br />
+**Portfolio Website**<br />
 <sub>Three.js · React</sub><br />
 Responsive 3D site built from scratch — physics engine, models, scene composition, lighting.
 
