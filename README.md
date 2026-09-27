@@ -23,8 +23,13 @@ I like taking real-world problems and using software to create solutions.
 
 <sub>**WORK**</sub>
 
+**RainCouver**<br />
+<sub>React · TypeScript · LiDAR/OSM data — in progress</sub><br />
+A GPS that finds you the driest route through Downtown Vancouver, using LiDAR data to map covered walkways street by street.
+<br />
+
 **RepPower**<br />
-<sub>Swift · SwiftUI · CoreMotion — in progress</sub><br />
+<sub>Swift · SwiftUI · CoreMotion</sub><br />
 Estimates barbell velocity from AirPods motion sensors using custom physics models. Real-time lifting feedback.
 
 <br />
