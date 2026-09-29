@@ -23,31 +23,31 @@ I like taking real-world problems and using software to create solutions.
 
 <sub>**WORK**</sub>
 
-**RainCouver**<br />
+**[RainCouver](https://github.com/jrosario0225/RainCouver)**<br />
 <sub>React · TypeScript · LiDAR/OSM data — in progress</sub><br />
 A GPS that finds you the driest route through Downtown Vancouver, using LiDAR data to map covered walkways street by street.
 <br />
 
-**RepPower**<br />
+**[RepPower](https://github.com/jrosario0225/RepPower)**<br />
 <sub>Swift · SwiftUI · CoreMotion</sub><br />
 Estimates barbell velocity from AirPods motion sensors using custom physics models. Real-time lifting feedback.
 
 <br />
 
 
-**Spike Timer**<br />
+**[Spike Timer](https://github.com/jrosario0225/spike-timer)**<br />
 <sub>JavaScript · React · Computer Vision</sub><br />
 Pulls takeoff, contact, and landing timing out of raw video and determines accuracy of spike timing.
 
 <br />
 
-**Volleyball Stat Tracker**<br />
+**[Volleyball Stat Tracker](https://github.com/jrosario0225/volleyball-stat-tracker)**<br />
 <sub>React</sub><br />
 Real-time event logging built for accurate input under pressure, with views that surface insight mid-match.
 
 <br />
 
-**Portfolio Website**<br />
+**[Portfolio Website](https://github.com/jrosario0225/personal-website)**<br />
 <sub>Three.js · React</sub><br />
 Responsive 3D site built from scratch — physics engine, models, scene composition, lighting.
 
